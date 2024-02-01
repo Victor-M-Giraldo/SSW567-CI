@@ -1,0 +1,1 @@
+[![build status of master](https://travis-ci.org/Victor-M-Giraldo/SSW576-CI.svg?branch=master)](https://travis-ci.org/Victor-M-Giraldo/SSW576-CI)
