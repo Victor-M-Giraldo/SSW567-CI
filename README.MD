@@ -1,1 +1,1 @@
-[![build status of master](https://travis-ci.org/Victor-M-Giraldo/SSW576-CI.svg?branch=master)](https://travis-ci.org/Victor-M-Giraldo/SSW576-CI)
+[![Build Status](https://app.travis-ci.com/Victor-M-Giraldo/SSW567-CI.svg?branch=main)](https://app.travis-ci.com/Victor-M-Giraldo/SSW567-CI)
